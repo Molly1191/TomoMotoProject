@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
+**/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -58,3 +58,40 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+TomoMotoGame/Library/ArtifactDB
+TomoMotoGame/Library/PackageManager/ProjectCache
+TomoMotoGame/Library/PackageManager/ProjectCache.md5
+TomoMotoGame/Library/SceneVisibilityState.asset
+TomoMotoGame/Library/SourceAssetDB
+TomoMotoGame/Library/StateCache/MainStageHierarchy/d2/d273418ff4ad75069b8a2d1adb07dea9.json
+TomoMotoGame/Logs/AssetImportWorker0.log
+TomoMotoGame/Logs/shadercompiler-AssetImportWorker0.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe7.log
+TomoMotoGame/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+TomoMotoGame/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+TomoMotoGame/Temp/Assembly-CSharp.dll.hash
+TomoMotoGame/Temp/CompilationLog.txt
+TomoMotoGame/Temp/UnityLockfile
+TomoMotoGame/Temp/UnityTempFile-ba3b547ff6a479d408fcd08cad4118dc
+TomoMotoGame/Temp/workerlic
+TomoMotoGame/Library/ArtifactDB
+TomoMotoGame/Library/PackageManager/ProjectCache
+TomoMotoGame/Library/PackageManager/ProjectCache.md5
+TomoMotoGame/Library/SceneVisibilityState.asset
+TomoMotoGame/Library/SourceAssetDB
+TomoMotoGame/Library/StateCache/MainStageHierarchy/d2/d273418ff4ad75069b8a2d1adb07dea9.json
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+TomoMotoGame/Logs/shadercompiler-UnityShaderCompiler.exe7.log
